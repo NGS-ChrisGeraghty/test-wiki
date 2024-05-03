@@ -1,3 +1,3 @@
 # test-wiki
 
-[the wiki](wiki)
+[the wiki](../../wiki)
